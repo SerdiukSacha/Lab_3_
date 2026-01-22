@@ -9,4 +9,8 @@ public class Circle extends Shape {
     @Override public String toString() {
         return "Circle [" + super.toString() + ", radius=" + radius + ", area=" + String.format("%.2f", calcArea()) + "]";
     }
+
+    public double getRadius() {
+        return radius;
+    }
 }

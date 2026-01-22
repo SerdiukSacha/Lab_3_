@@ -9,4 +9,12 @@ public class Rectangle extends Shape {
     @Override public String toString() {
         return "Rectangle [" + super.toString() + ", width=" + width + ", height=" + height + ", area=" + calcArea() + "]";
     }
+
+    public double getWidth() {
+        return width;
+    }
+
+    public double getHeight() {
+        return height;
+    }
 }

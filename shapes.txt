@@ -1,0 +1,10 @@
+Rectangle;White;15.0;3.0
+Circle;Purple;8.0
+Triangle;Orange;12.0;4.0
+Circle;Pink;2.5
+Rectangle;Black;5.0;5.0
+Triangle;Cyan;9.0;2.0
+Rectangle;Brown;20.0;10.0
+Circle;Gray;4.0
+Triangle;Magenta;15.0;6.0
+Rectangle;Gold;6.0;2.0

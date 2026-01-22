@@ -9,4 +9,12 @@ public class Triangle extends Shape {
     @Override public String toString() {
         return "Triangle [" + super.toString() + ", base=" + base + ", height=" + height + ", area=" + calcArea() + "]";
     }
+
+    public double getBase() {
+        return base;
+    }
+
+    public double getHeight() {
+        return height;
+    }
 }
