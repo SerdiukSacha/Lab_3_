@@ -1,4 +1,6 @@
-packMain {
+package Java_Lab3;
+
+public class Main {
     public static void main(String[] args) {
         // Змінені параметри: інші кольори та розміри
         Shape[] shapes = {
